@@ -1,13 +1,10 @@
 # Predict-similarity-between-two-questions
-==========================================
 Predict similarity between two questions from Quora
 
 #Data
-=====
 Kaggle's Quora Question Pairs dataset is used for this project.
 
 # Word Embedding
-================
 2 word embedding methods:
 * Word2vec
 * Glove
